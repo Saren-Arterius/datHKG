@@ -13,9 +13,9 @@ datHKG is a new Android HKGolden reader app. This repository serves as a bug rep
 - New version checking... etc 
 
 # Known bugs ##
-- *Click to retry* appears sometimes in photo preview
+- *Click to retry* appears sometimes in photo preview (Not loading image)
 - Annoying fast scroll bubble
-- Empty post page **(switch to next 2 page then switch back fixes this) **
+- Empty post page **switch to next 2 page then switch back fixes this**
 - FCs *everywhere*
 
 # Won't fix ##
