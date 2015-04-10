@@ -1,7 +1,7 @@
 {
   "version": "0.0.1d",
-  "description": "改進:\n- 新版本檢查\n- 較b版更少彈app\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 轉台圖示\n- 其他功能",
+  "description": "改進:\n- 新版本檢查\n- 較b版更少彈app\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 轉台圖示\n- 其他未列出的功能",
   "url": "https://raw.githubusercontent.com/Saren-Arterius/datHKG-Issues/master/packages/release_0_0_1c.apk",
   "pubdate": "2015-04-10",
-  "force": true
+  "force": false
 }
