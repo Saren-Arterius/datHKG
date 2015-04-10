@@ -1,7 +1,7 @@
 {
   "version": "0.0.1c",
   "description": "- 新版本檢查\n- 較b版極大改進彈app問題\n- 改進煩人泡泡\n- 其他方便改進\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 轉台圖示\n- 其他未列出的功能",
-  "url": "https://raw.githubusercontent.com/Saren-Arterius/datHKG-Issues/master/packages/release_0_0_1c.apk",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.1c/release_0_0_1c.apk",
   "pubdate": "2015-04-11",
   "force": true
 } 
