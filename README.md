@@ -1,13 +1,10 @@
-# datHKG-Issues #
+# datHKG #
 datHKG is a new Android HKGolden reader app. This repository serves as a bug reporting / feature requesting place.
 
 # Screenshots ##
 !["Read thread"](http://i.na.cx/Kadg2X.png)
 !["Profile page"](http://i.na.cx/rg6jh5.png)
 !["Photo grid"](https://i.na.cx/6b5HAp.png)
-
-# Release ##
-[0.0.1a](https://na.cx/hovag)
 
 # Future ##
 - PM RSA Encryption
