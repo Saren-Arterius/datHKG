@@ -1,3 +1,4 @@
+![Banner](https://i.na.cx/4vFO00.png)
 # datHKG #
 datHKG is a new Android HKGolden reader app. This repository serves as a bug reporting / feature requesting place.
 
