@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1d",
-  "description": "- 修復正負評掉轉問題\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 轉台圖示\n- 其他未列出的功能",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.1d/release_0_0_1d.apk",
+  "version": "0.0.1e",
+  "description": "(0.0.2)\n- 更改版面配置\n- 轉台圖示\n- 更少FC\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 其他未列出的功能",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.2/release_0_0_2.apk",
   "pubdate": "2015-04-11",
   "force": true
 } 
