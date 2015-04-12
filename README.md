@@ -21,14 +21,11 @@ datHKG is a new Android HKGolden reader app. This repository serves as a bug rep
 - Settings
 - Image downloading (hitbag)
 - Private Message
-- Forum icons
-- New version checking... etc 
+- etc 
 
 # Known bugs ##
 - *Click to retry* appears sometimes in photo preview (Not loading image)
-- Annoying fast scroll bubble
-- Empty post page **(switch to next 2 page then switch back temporarily fixes this)**
-- FCs *everywhere*
+- FCs *everywhere* (less now)
 
 # Won't fix ##
 - GIFs
