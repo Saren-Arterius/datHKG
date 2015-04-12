@@ -1,7 +1,7 @@
 {
-  "version": "0.0.2b",
-  "description": "- more bug fix\n- 起底會員highlight\n- 更改版面配置\n- 轉台圖示\n- 更少FC\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 其他未列出的功能",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.2b/release_0_0_2b.apk",
-  "pubdate": "2015-04-11",
+  "version": "0.0.2c",
+  "description": "- 修正少量問題\n(部份機型睇post回覆會痴埋一齊，搵緊點解)\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 其他未列出的功能",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.2c/release_0_0_2c.apk",
+  "pubdate": "2015-04-12",
   "force": true
 } 
