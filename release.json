@@ -1,8 +1,8 @@
 {
-  "version": "0.0.2f",
-  "description": "- 私家錯誤回報功能\n- 改善煩人「記憶體不足」\n- Fragment:getResources:619 <- 唔知想點\n(同埋記得得閒介紹datHKG比朋友仔知)\n(但係唔好去高登開post講，因為admin好小氣)\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 其他未列出的功能",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.2f/release_0_0_2f.apk",
-  "pubdate": "2015-04-14左右",
-  "force": true,
+  "version": "0.0.2g",
+  "description": "- 改善各種FC問題\n- 讀post進度更精準\n- 使用Google Play\n- 其他改進\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 其他未列出的功能",
+  "url": "https://plus.google.com/communities/116884088721194415800",
+  "pubdate": "2015-04-18",
+  "force": false,
   "next_check_seconds": 86400
-} 
+}
