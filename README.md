@@ -17,18 +17,13 @@ datHKG is a new Android HKGolden reader app. This repository serves as a bug rep
 - Paid features
 
 # What is not implemented ##
-- Reply / New thread / Quote
-- Settings
-- Image downloading (hitbag)
 - Private Message
+- GIFs
 - etc 
 
 # Known bugs ##
-- *Click to retry* appears sometimes in photo preview (Not loading image)
-- FCs *everywhere* (less now)
 
 # Won't fix ##
-- GIFs
 - Add *My Favourite* co-exists with *LM*
 
 # Original HKGolden thread ##
