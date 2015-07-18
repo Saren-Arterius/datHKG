@@ -1,8 +1,8 @@
 {
-  "version": "0.0.2g",
-  "description": "- 改善各種FC問題\n- 讀post進度更精準\n- 使用Google Play\n- 其他改進\n\n以下功能仍未實現:\n- 回覆/發表貼文\n- 設定\n- 圖片下載(打包)\n- PM\n- 私人訊息\n- 其他未列出的功能",
-  "url": "https://plus.google.com/communities/116884088721194415800",
-  "pubdate": "2015-04-18",
+  "version": "0.0.6f",
+  "description": "- 新回覆/PM檢查間隔設為0 = 真正完全關閉服務\n- 加入PM list錯誤訊息方便日後debug",
+  "url": "https://dl.dropboxusercontent.com/u/22107397/app-release.apk",
+  "pubdate": "2015-07-18",
   "force": false,
   "next_check_seconds": 86400
 }
