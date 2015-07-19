@@ -1,8 +1,8 @@
 {
-  "version": "0.0.6f",
-  "description": "(睇唔到PM既人請盡快down呢個ver)\n- 新回覆/PM檢查間隔設為0 = 真正完全關閉服務\n- 加入PM list錯誤訊息方便日後debug",
+  "version": "0.0.6g",
+  "description": "(睇唔到pm既人請優先down呢個ver，開pm list然後回報)\n- 設定: 過濾純icon/留名回覆\n- 加強PM list除錯工作",
   "url": "https://dl.dropboxusercontent.com/u/22107397/app-release.apk",
-  "pubdate": "2015-07-18",
+  "pubdate": "2015-07-19",
   "force": false,
   "next_check_seconds": 86400
 }
