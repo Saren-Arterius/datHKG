@@ -1,6 +1,6 @@
 {
-  "version": "0.0.6g",
-  "description": "(睇唔到pm既人請優先down呢個ver，開pm list然後回報)\n- 設定: 過濾純icon/留名回覆\n- 加強PM list除錯工作",
+  "version": "0.0.6h",
+  "description": "(睇唔到pm既人請down呢個ver)\n- PM list fix",
   "url": "https://dl.dropboxusercontent.com/u/22107397/app-release.apk",
   "pubdate": "2015-07-19",
   "force": false,
