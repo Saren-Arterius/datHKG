@@ -1,6 +1,6 @@
 {
-  "version": "0.0.6k",
-  "description": "- 加入次要API伺服器\n- 設定: 回覆/發表/PM成功時不顯示通知",
+  "version": "0.0.6l",
+  "description": "- 次要API伺服器小圈子過濾修正\n- 回覆成功時請求中轉伺服器清除快取\n- 其他小修正\n- FC修正",
   "url": "https://dl.dropboxusercontent.com/u/22107397/app-release.apk",
   "pubdate": "2015-07-25",
   "force": false,
