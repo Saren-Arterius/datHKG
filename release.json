@@ -1,8 +1,8 @@
 {
-  "version": "0.0.6l",
-  "description": "- 次要API伺服器小圈子過濾修正\n- 回覆成功時請求中轉伺服器清除快取\n- 其他小修正\n- FC修正",
+  "version": "0.0.6n",
+  "description": "- 實驗性顏色主題選擇 (黑底)\n- 加入確認退出提示\n- 設定: 捲動時暫停GIF播放 (預設)\n- 設定: 隱藏快速捲動條\n- FC修正\n",
   "url": "https://dl.dropboxusercontent.com/u/22107397/app-release.apk",
-  "pubdate": "2015-07-25",
+  "pubdate": "2015-07-29",
   "force": false,
   "next_check_seconds": 86400
 }
