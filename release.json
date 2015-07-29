@@ -1,6 +1,6 @@
 {
-  "version": "0.0.6n",
-  "description": "- 實驗性顏色主題選擇 (黑底)\n- 加入確認退出提示\n- 設定: 捲動時暫停GIF播放 (預設)\n- 設定: 隱藏快速捲動條\n- FC修正\n",
+  "version": "0.0.6o",
+  "description": "- 加入白色主題 (粉紅、黃、藍)\n- 可選擇主題列表風格\n- FC修正",
   "url": "https://dl.dropboxusercontent.com/u/22107397/app-release.apk",
   "pubdate": "2015-07-29",
   "force": false,
