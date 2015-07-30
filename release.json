@@ -1,8 +1,8 @@
 {
-  "version": "0.0.6o",
-  "description": "- 加入白色主題 (粉紅、黃、藍)\n- 可選擇主題列表風格\n- FC修正",
-  "url": "https://dl.dropboxusercontent.com/u/22107397/app-release.apk",
-  "pubdate": "2015-07-29",
-  "force": false,
+  "version": "0.0.6p",
+  "description": "[強制更新]\ndatHKG因某些原因而從Google Play下架。\n\n為過渡往新的APK，此版本必需被安裝。\n\n安裝程式後若有疑問，請到Facebook專頁查詢。\n\n不便之處，敬請見諒。",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.6p/datHKG-release.apk",
+  "pubdate": "2015-07-30",
+  "force": true,
   "next_check_seconds": 86400
 }
