@@ -14,6 +14,7 @@ if __name__ == "__main__":
   data = loads(open(JSON_PATH).read())
   if len(argv) == 2:
     data[SKU_NAME].append(int(argv[1]))
+  data[SKU_NAME] = list(set(data[SKU_NAME]))
   data[SKU_NAME].sort()
   with open(JSON_PATH, "w") as file:
     file.write(dumps(data))
