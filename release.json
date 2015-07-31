@@ -1,6 +1,6 @@
 {
-  "version": "0.0.7",
-  "description": "- 新apk (請移除舊apk)\n- 其他小修正\n\n安裝程式後若有疑問，請到Facebook專頁查詢。\n\n不便之處，敬請見諒。",
+  "version": "0.0.7b",
+  "description": "- (移除廣告問題) a版蠢左sor",
   "url": "https://play.google.com/store/apps/details?id=net.wtako.dathkg_reborn",
   "pubdate": "2015-07-31",
   "force": false,
