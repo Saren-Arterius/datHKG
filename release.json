@@ -1,8 +1,8 @@
 {
-  "version": "0.0.7b",
-  "description": "- (移除廣告問題) a版蠢左sor",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.7b/datHKG-release.apk",
-  "pubdate": "2015-07-31",
+  "version": "0.0.8d",
+  "description": "- 自訂顏色主題",
+  "url": "https://play.google.com/store/apps/details?id=net.wtako.dathkg_reborn",
+  "pubdate": "2015-08-10",
   "force": false,
   "next_check_seconds": 86400
 }
