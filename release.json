@@ -1,8 +1,8 @@
 {
-  "version": "0.0.8k",
-  "description": "自己睇",
-  "url": "https://play.google.com/store/apps/details?id=net.wtako.dathkg_reborn",
-  "pubdate": "2015-09-04",
+  "version": "0.0.8l",
+  "description": "預設設定: 嘗試修復舊API icon\n預設設定: 強制等待引用/上載圖片",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.8l/datHKG-release.apk",
+  "pubdate": "2015-09-06",
   "force": false,
-  "next_check_seconds": 86400
+  "next_check_seconds": 10000
 }
