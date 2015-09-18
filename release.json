@@ -1,8 +1,8 @@
 {
-  "version": "0.0.8l",
-  "description": "預設設定: 嘗試修復舊API icon\n預設設定: 強制等待引用/上載圖片",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.8l/datHKG-release.apk",
-  "pubdate": "2015-09-06",
+  "version": "0.0.9",
+  "description": "- 修正: 5個FC問題\n- 修正: 派膠賜酒Icon過大\n- 修正: 會員檔案PM按鈕直入PM界面\n- 修正: 使用API時，只會顯示第1頁結果的問題\n- 修正: 不在引用中顯示YouTube縮圖\n- 修正: 轉換連結到圖片時，一併處理holland.pk的圖片\n- 修正: 取消成人台/內置YouTube播放器登入限制\n- 新增: 取消發貼按鈕/失敗圖示\n- 新增: 支援[*]標籤\n- 新增: 使用舊API時，移除https超連結旁的[url]標籤\n- 新增: 沒有PM對話的提示\n- 新增: 回覆編輯器功能表 (歡迎提出功能要求)\n- 新增: 立即檢查更新按鈕\n- 新增設定: 自訂已讀/已回/留名標籤顏色\n- 新增設定: 停用內置圖片預覽，以瀏覽器放大圖片 (彈app時用)\n- 新增設定: 清除已回覆資料庫\n- 新增預設設定: 過濾關鍵字時不過濾自己的的貼文\n- 新增預設設定: 程式在背景時不自動載入新回覆\n- 新增預設設定: PM時不自動載入圖片\n- 新增預設設定: 使用舊API回覆後，以forum伺服器載入新回覆\n- 新增預設設定: 只在使用數據網絡時，才使用中轉伺服器\n- 其他小修正",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9/datHKG-release.apk",
+  "pubdate": "2015-09-18",
   "force": false,
   "next_check_seconds": 10000
 }
