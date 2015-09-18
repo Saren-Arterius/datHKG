@@ -11,6 +11,7 @@ JSON_PATH = join(SCRIPT_PATH, JSON_NAME)
 SKU_NAME = "ad_removal"
 
 if __name__ == "__main__":
+  call(["git", "pull", "origin", "master"])
   data = loads(open(JSON_PATH).read())
   if len(argv) == 2:
     data[SKU_NAME].append(int(argv[1]))
