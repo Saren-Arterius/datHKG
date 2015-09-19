@@ -1,7 +1,7 @@
 {
-  "version": "0.0.9a",
-  "description": "- 修正: 1個困擾已久的FC問題\n- 修正: 關閉舊API主題列表粗口filter\n- 修正(?): 使用CUSTOM顏色主題時，已讀/已回顏色標籤消失問題",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9a/datHKG-release.apk",
+  "version": "0.0.9b",
+  "description": "- 修正: 幾個FC問題\n- 新增: 移除廣告購買方法",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9b/datHKG-release.apk",
   "pubdate": "2015-09-19",
   "force": false,
   "next_check_seconds": 10000
