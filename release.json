@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9c",
-  "description": "- 修正: 幾個FC問題\n- 改善: GIF支援\n- 改善: http程式庫更新\n- 其他小修正",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9c/datHKG-release.apk",
-  "pubdate": "2015-09-20",
+  "version": "0.0.9d",
+  "description": "- 修正: 幾個FC問題\n- 改善: 圖片連結轉換功能\n- 其他小修正",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9d/datHKG-release.apk",
+  "pubdate": "2015-09-21",
   "force": false,
   "next_check_seconds": 10000
 }
