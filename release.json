@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9b",
-  "description": "- 修正: 幾個FC問題\n- 新增: 移除廣告購買方法",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9b/datHKG-release.apk",
-  "pubdate": "2015-09-19",
+  "version": "0.0.9c",
+  "description": "- 修正: 幾個FC問題\n- 改善: GIF支援\n- 改善: http程式庫更新\n- 其他小修正",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9c/datHKG-release.apk",
+  "pubdate": "2015-09-20",
   "force": false,
   "next_check_seconds": 10000
 }
