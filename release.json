@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9f",
-  "description": "- 修正: 幾個FC問題\n(Sorry for force update, but there were too much FCs in previous versions)",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9f/datHKG-release.apk",
-  "pubdate": "2015-09-22",
+  "version": "0.0.9g",
+  "description": "- 修正: 按圖片大小載入圖片功能\n- 修正: 少量FC\n- 其他小修正\n(強制更新，吹咩^3^)",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9g/datHKG-release.apk",
+  "pubdate": "2015-09-23",
   "force": true,
   "next_check_seconds": 10000
 }
