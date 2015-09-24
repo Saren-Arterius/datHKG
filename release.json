@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9h",
-  "description": "- 增加: 圖片載入失敗debug功能(有機會在下一版fix部份用家不能載入圖片的問題)",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9h/datHKG-release.apk",
-  "pubdate": "2015-09-23",
+  "version": "0.0.9i",
+  "description": "- 修正: 打開相關選項後才啟用圖片載入失敗debug回報功能\n- 修正: 幾個FC問題\n- 其他載入圖片相關的修正\n(怕左你地，唔敢強制更新，不過新照更)",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9i/datHKG-release.apk",
+  "pubdate": "2015-09-24",
   "force": false,
-  "next_check_seconds": 10000
+  "next_check_seconds": 43200
 }
