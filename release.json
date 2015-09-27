@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9j",
-  "description": "- 修正: Memory leak",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9j/datHKG-release.apk",
-  "pubdate": "2015-09-25",
+  "version": "0.0.9k",
+  "description": "- 修正: 少量FC問題\n- 其他小修正",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9k/datHKG-release.apk",
+  "pubdate": "2015-09-27",
   "force": false,
   "next_check_seconds": 43200
 }
