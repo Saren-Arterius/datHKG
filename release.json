@@ -4,5 +4,5 @@
   "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9l/datHKG-release.apk",
   "pubdate": "2015-09-29",
   "force": false,
-  "next_check_seconds": 43200
+  "next_check_seconds": 10000
 }
