@@ -1,7 +1,7 @@
 {
-  "version": "0.0.9m",
-  "description": "- 修正: 少量FC問題\n- 更換package名\n(幾日後將強制更新，請自行過渡)\n\n若更新後持續出現更新提示，姐係你用緊舊版(呢個版本)。唔該del左舊版佢，但唔好del錯新版",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9m/datHKG-release.apk",
+  "version": "0.0.9n",
+  "description": "- 修正: 一個可怕的錯誤(n)\n- 修正: 少量FC問題\n- 更換package名\n(幾日後將強制更新，請自行過渡)\n\n若更新後持續出現更新提示，姐係你用緊舊版(呢個版本)。唔該del左舊版佢，但唔好del錯新版",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9n/datHKG-release.apk",
   "pubdate": "2015-10-01",
   "force": false,
   "next_check_seconds": 10000
