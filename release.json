@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9g",
-  "description": "- 修正: 按圖片大小載入圖片功能\n- 修正: 少量FC\n- 其他小修正\n(強制更新，吹咩^3^)",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9g/datHKG-release.apk",
-  "pubdate": "2015-09-23",
-  "force": true,
+  "version": "0.0.9l",
+  "description": "- 修正: 少量FC問題\n- 其他小修正\n(琴日掛完玩奧燒bb，冇update，唔好意思)",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9l/datHKG-release.apk",
+  "pubdate": "2015-09-29",
+  "force": false,
   "next_check_seconds": 10000
 }
