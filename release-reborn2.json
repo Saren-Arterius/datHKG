@@ -3,6 +3,6 @@
   "description": "- 修正: 一個可怕的錯誤(n)\n- 修正: 少量FC問題\n- 更換package名",
   "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9n/datHKG-release.apk",
   "pubdate": "2015-10-01",
-  "force": false,
+  "force": true,
   "next_check_seconds": 10000
 }
