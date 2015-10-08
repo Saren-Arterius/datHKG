@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9n",
-  "description": "- 修正: 一個可怕的錯誤(n)\n- 修正: 少量FC問題\n- 更換package名",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9n/datHKG-release.apk",
-  "pubdate": "2015-10-01",
-  "force": true,
+  "version": "0.0.9o",
+  "description": "- 新增: 以電郵和帳單號碼來回復廣告購買\n(因此新增一個所需權限)\n- 修正: 少量FC問題\n- 其他小修正",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9o/datHKG-release.apk",
+  "pubdate": "2015-10-09",
+  "force": false,
   "next_check_seconds": 10000
 }
