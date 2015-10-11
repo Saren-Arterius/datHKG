@@ -7,9 +7,7 @@ datHKG is a new Android HKGolden reader app. This repository serves as a bug rep
 - Paid features
 
 # What is not implemented ##
-- Private Message
-- GIFs
-- etc 
+- etc
 
 # Known bugs ##
 
