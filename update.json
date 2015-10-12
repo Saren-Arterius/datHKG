@@ -7,9 +7,9 @@
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.9s",
-    "description": "- 改善: 程式運作速度\n- 改善: (可能)減少食電\n- (r) 修正: 小圈子過濾\n- (r) 新增: beta版更新系統 (減少頻繁更新)\n- (s) 修正: FCs",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9s/datHKG-release.apk",
+    "version": "0.0.9t",
+    "description": "- (q) 改善: 程式運作速度\n- (q) 改善: (可能)減少食電\n- (r) 修正: 小圈子過濾\n- (r) 新增: beta版更新系統 (減少頻繁更新)\n- (s, t) 修正: FC問題\n- (t) 其他小修正",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9t/datHKG-release.apk",
     "pubdate": "2015-10-12",
     "next_check_seconds": 10000
   },
