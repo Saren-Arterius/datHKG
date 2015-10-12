@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9r",
-  "description": "你開錯左舊版呀呀呀呀呀，信我啦",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9r/datHKG-release.apk",
-  "pubdate": "2015-10-12",
+  "version": "6.6.6",
+  "description": "你開錯左舊版呀呀呀呀呀，信我啦\n但6.6.6版係假既，不過4600年之後，datHKG都未必有6.6.6版(笑)",
+  "url": "https://dathkg.wtako.net/",
+  "pubdate": "6666-66-66",
   "force": true,
   "next_check_seconds": 10000
 }
