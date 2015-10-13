@@ -1,9 +1,9 @@
 {
   "normal": {
-    "version": "0.0.9p",
-    "description": "- 修正: link",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9p/datHKG-release.apk",
-    "pubdate": "2015-10-09",
+    "version": "0.0.9t",
+    "description": "- (q) 改善: 程式運作速度\n- (q) 改善: (可能)減少食電\n- (r) 修正: 小圈子過濾\n- (r) 新增: beta版更新系統 (減少頻繁更新)\n- (s, t) 修正: FC問題\n- (t) 其他小修正",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9t/datHKG-release.apk",
+    "pubdate": "2015-10-12",
     "next_check_seconds": 36000
   },
   "beta": {
