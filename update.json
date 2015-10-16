@@ -7,10 +7,10 @@
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.9t",
-    "description": "- (q) 改善: 程式運作速度\n- (q) 改善: (可能)減少食電\n- (r) 修正: 小圈子過濾\n- (r) 新增: beta版更新系統 (減少頻繁更新)\n- (s, t) 修正: FC問題\n- (t) 其他小修正",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9t/datHKG-release.apk",
-    "pubdate": "2015-10-12",
+    "version": "0.0.9u",
+    "description": "- (u) 新增: 長按貼文->顯示已封鎖會員的回覆\n- (u) 新增: 載入圖片設定 - 防止金剛棒\n- (u) 改善: 隱藏發貼欄時儲存草稿\n- (u) 修正: 少量FC問題\n- 請記住: datHKG有草稿功能\n- 請記住: 長禁主題列表「XX台」可以開戶外模式\n- 請記住: 長禁轉台列表既「XX台」可以開關小圈子過濾",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9u/datHKG-release.apk",
+    "pubdate": "2015-10-16",
     "next_check_seconds": 10000
   },
   "ban_version_under": "0.0.9p"
