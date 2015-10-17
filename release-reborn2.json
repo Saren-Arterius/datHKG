@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9v",
-  "description": "- (u) 新增: 長按貼文->顯示已封鎖會員的回覆\n- (u) 新增: 載入圖片設定 - 防止金剛棒\n- (u) 改善: 隱藏發貼欄時儲存草稿\n- (u) 修正: 少量FC問題\n- (v) 修正: 不能load圖(，令我作嘔)的嚴重bug\n- 請記住: datHKG有草稿功能\n- 請記住: 長禁主題列表「XX台」可以開戶外模式\n- 請記住: 長禁轉台列表既「XX台」可以開關小圈子過濾",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9v/datHKG-release.apk",
-  "pubdate": "2015-10-16",
+  "version": "0.0.9w",
+  "description": "- (w) 改善: 整合Android M權限系統 (修正上傳圖片問題)\n- (w) 改善: 少量效能問題\n- (w) 修正: 少量FC問題\n- (w) 新增: 設定備份功能\n- (w) 其他小修正\n",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9w/datHKG-release.apk",
+  "pubdate": "2015-10-18",
   "next_check_seconds": 10000,
   "force": false
 }
