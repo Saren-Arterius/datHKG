@@ -1,8 +1,8 @@
 {
   "version": "0.0.9w",
-  "description": "- (w) 改善: 整合Android M權限系統 (修正上傳圖片問題)\n- (w) 改善: 少量效能問題\n- (w) 修正: 少量FC問題\n- (w) 新增: 設定備份功能\n- (w) 其他小修正",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9w/datHKG-release.apk",
-  "pubdate": "2015-10-18",
+  "description": "- (w) 改善: 整合Android M權限系統 (修正上傳圖片問題)\n- (w) 改善: 少量效能問題\n- (w) 新增: 設定備份功能\n- (x) 新增: 回覆框文字取代功能\n- (w, x) 其他小修正\n- (w, x) 修正: 少量FC問題\n",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9x/datHKG-release.apk",
+  "pubdate": "2015-10-21",
   "next_check_seconds": 10000,
   "force": false
 }
