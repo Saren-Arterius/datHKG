@@ -8,7 +8,7 @@
   },
   "beta": {
     "version": "0.0.9y",
-    "description": "- (y) 修正: 大部份FC問題\n- (y) 新增: 支援貼文標籤\n- (y) 新增: 支援修改會員名稱(男女)顏色\n- (y) 其他小修正\n" +
+    "description": "- (y) 修正: 大部份FC問題\n- (y) 新增: 支援貼文標籤\n- (y) 新增: 支援修改會員名稱(男女)顏色\n- (y) 其他小修正",
     "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9y/datHKG-release.apk",
     "pubdate": "2015-10-30",
     "next_check_seconds": 10000
