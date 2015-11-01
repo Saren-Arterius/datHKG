@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9w",
-  "description": "- (w) 改善: 整合Android M權限系統 (修正上傳圖片問題)\n- (w) 改善: 少量效能問題\n- (w) 新增: 設定備份功能\n- (x) 新增: 回覆框文字取代功能\n- (w, x) 其他小修正\n- (w, x) 修正: 少量FC問題\n",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9x/datHKG-release.apk",
-  "pubdate": "2015-10-21",
+  "version": "0.0.9z",
+  "description": "- (y) 修正: 大部份FC問題\n- (y) 新增: 支援貼文標籤\n- (y) 新增: 支援修改會員名稱(男女)顏色\n- (z) 新增: click回覆作者/日期/位置出popup menu\n- (z) 改善: 少量貼文載入效能\n- (y, z) 其他小修正\n",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9z/datHKG-release.apk",
+  "pubdate": "2015-11-01",
   "next_check_seconds": 10000,
-  "force": false
+  "force": true
 }
