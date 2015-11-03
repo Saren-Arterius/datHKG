@@ -1,7 +1,7 @@
 {
-  "version": "0.0.9z",
-  "description": "- (y) 修正: 大部份FC問題\n- (y) 新增: 支援貼文標籤\n- (y) 新增: 支援修改會員名稱(男女)顏色\n- (z) 新增: click回覆作者/日期/位置出popup menu\n- (z) 改善: 少量貼文載入效能\n- (y, z) 其他小修正\n",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.9z/datHKG-release.apk",
+  "version": "0.0.10a",
+  "description": "- (a) 修正: ANR\n- (a) 改善: 引用功能\n- (a) 其他小修正",
+  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.10a/datHKG-release.apk",
   "pubdate": "2015-11-01",
   "next_check_seconds": 10000,
   "force": true
