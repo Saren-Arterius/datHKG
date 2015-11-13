@@ -1,16 +1,16 @@
 {
   "normal": {
-    "version": "0.0.10a",
-    "description": "- (a) 修正: ANR\n- (a) 改善: 引用功能\n- (a) 其他小修正",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.10a/datHKG-release.apk",
-    "pubdate": "2015-11-01",
+    "version": "0.0.10c",
+    "description": "- (b) 新增: Aikon²支援\n- (c) 修正: 下載Aikon²時FC\n- (c) 重新支援: na.cx上載\n- (c) 其他小修正和FC修正",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.10c/datHKG-release.apk",
+    "pubdate": "2015-11-14",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.10b",
-    "description": "- (b) 新增: Aikon²支援",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.10b/datHKG-release.apk",
-    "pubdate": "2015-11-05",
+    "version": "0.0.10c",
+    "description": "- (b) 新增: Aikon²支援\n- (c) 修正: 下載Aikon²時FC\n- (c) 重新支援: na.cx上載\n- (c) 其他小修正和FC修正",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.10c/datHKG-release.apk",
+    "pubdate": "2015-11-14",
     "next_check_seconds": 10000
   },
   "ban_version_under": "0.0.9x"
