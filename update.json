@@ -7,9 +7,9 @@
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.11a",
-    "description": "- (a) 修正: Aikon同步",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11a/app-prod-release.apk",
+    "version": "0.0.11b",
+    "description": "- (a) 修正: Aikon同步\n- (b) 修正: 打包",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11b/app-prod-release.apk",
     "pubdate": "2015-11-27",
     "next_check_seconds": 10000
   },
