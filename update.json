@@ -1,16 +1,16 @@
 {
   "normal": {
-    "version": "0.0.11b",
-    "description": "- 新增: 4個新up圖網\n- 新增: 資料庫自動備份\n- 修正: 上載圖片壓縮功能\n- 改善: 引用/插入圖片時的光標位置\n- (a) 修正: Aikon同步\n- (b) 修正: 打包",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11b/app-prod-release.apk",
-    "pubdate": "2015-11-28",
+    "version": "0.0.11c",
+    "description": "- (c) 改善: 減少GIF顯示CPU使用率\n- (c) 修正: 回覆FC問題\n- (c) 改善: 同步Aikon時加入.nomedia",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11c/app-prod-release.apk",
+    "pubdate": "2015-11-30",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.11b",
-    "description": "- 新增: 4個新up圖網\n- 新增: 資料庫自動備份\n- 修正: 上載圖片壓縮功能\n- 改善: 引用/插入圖片時的光標位置\n- (a) 修正: Aikon同步\n- (b) 修正: 打包",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11b/app-prod-release.apk",
-    "pubdate": "2015-11-27",
+    "version": "0.0.11c",
+    "description": "- (c) 改善: 減少GIF顯示CPU使用率\n- (c) 修正: 回覆FC問題\n- (c) 改善: 同步Aikon時加入.nomedia",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11c/app-prod-release.apk",
+    "pubdate": "2015-11-30",
     "next_check_seconds": 10000
   },
   "ban_version_under": "0.0.10a"
