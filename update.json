@@ -1,16 +1,16 @@
 {
   "normal": {
-    "version": "0.0.11c",
-    "description": "- (c) 改善: 減少GIF顯示CPU使用率\n- (c) 修正: 回覆FC問題\n- (c) 改善: 同步Aikon時加入.nomedia",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11c/app-prod-release.apk",
-    "pubdate": "2015-11-30",
+    "version": "0.0.11d",
+    "description": "- (d) 修正: 選擇圖片打包",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11d/app-prod-release.apk",
+    "pubdate": "2015-12-04",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.11c",
-    "description": "- (c) 改善: 減少GIF顯示CPU使用率\n- (c) 修正: 回覆FC問題\n- (c) 改善: 同步Aikon時加入.nomedia",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11c/app-prod-release.apk",
-    "pubdate": "2015-11-30",
+    "version": "0.0.11d",
+    "description": "- (d) 修正: 選擇圖片打包",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11d/app-prod-release.apk",
+    "pubdate": "2015-12-04",
     "next_check_seconds": 10000
   },
   "ban_version_under": "0.0.10a"
