@@ -1,13 +1,13 @@
 {
   "normal": {
-    "version": "0.0.11e",
+    "version": "0.0.11f",
     "description": "- (f) 新增: 校園台\n- (f) 新增: Imgur封鎖應對: 設定->圖片載入->故障排除->不傳送Referer\n- (f) 修正: FC",
     "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11f/app-prod-release.apk",
     "pubdate": "2016-01-18",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.11e",
+    "version": "0.0.11f",
     "description": "- (f) 新增: 校園台\n- (f) 新增: Imgur封鎖應對: 設定->圖片載入->故障排除->不傳送Referer\n- (f) 修正: FC",
     "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11f/app-prod-release.apk",
     "pubdate": "2016-01-18",
