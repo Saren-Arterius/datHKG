@@ -1,8 +1,8 @@
 {
-  "version": "0.0.10a",
-  "description": "- (a) 修正: ANR\n- (a) 改善: 引用功能\n- (a) 其他小修正",
-  "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.10a/datHKG-release.apk",
-  "pubdate": "2015-11-01",
-  "next_check_seconds": 10000,
-  "force": true
+  "version": "6.6.6",
+  "description": "喂你肯update未呀？",
+  "url": "https://dathkg.wtako.net/",
+  "pubdate": "6666-66-66",
+  "force": true,
+  "next_check_seconds": 10000
 }
