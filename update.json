@@ -1,16 +1,16 @@
 {
   "normal": {
-    "version": "0.0.11f",
-    "description": "- (f) 新增: 校園台\n- (f) 新增: Imgur封鎖應對: 設定->圖片載入->故障排除->不傳送Referer\n- (f) 修正: FC",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11f/app-prod-release.apk",
-    "pubdate": "2016-01-18",
+    "version": "0.0.11g",
+    "description": "- (g) 改善: 預設不再使用舊API\n- (g) 改善: 預設解決Imgur封鎖問題\n- (g) 改善: 更新提示UI\n- (g) 修正: 少量FC/其他問題",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11g/app-prod-release.apk",
+    "pubdate": "2016-03-18",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.11f",
-    "description": "- (f) 新增: 校園台\n- (f) 新增: Imgur封鎖應對: 設定->圖片載入->故障排除->不傳送Referer\n- (f) 修正: FC",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11f/app-prod-release.apk",
-    "pubdate": "2016-01-18",
+    "version": "0.0.11g",
+    "description": "- (g) 改善: 預設不再使用舊API\n- (g) 改善: 預設解決Imgur封鎖問題\n- (g) 改善: 更新提示UI\n- (g) 修正: 少量FC/其他問題",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11g/app-prod-release.apk",
+    "pubdate": "2016-03-18",
     "next_check_seconds": 10000
   },
   "ban_version_under": "0.0.11"
