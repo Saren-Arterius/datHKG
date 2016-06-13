@@ -7,11 +7,11 @@
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.11h",
-    "description": "- (g) 改善: 預設不再使用舊API\n- (g) 改善: 預設解決Imgur封鎖問題\n- (g) 改善: 更新提示UI\n- (g) 修正: 少量FC/其他問題\n- (h) 修正: 少量FC問題",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.11h/app-prod-release.apk",
-    "pubdate": "2016-03-20",
+    "version": "0.0.12",
+    "description": "- 改善: 對Android 6.0 UI支援\n修正: 少量UI修正",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.12/app-prod-release.apk",
+    "pubdate": "2016-06-13",
     "next_check_seconds": 10000
   },
-  "ban_version_under": "0.0.11"
+  "ban_version_under": "0.0.11h"
 }
