@@ -7,11 +7,11 @@
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "0.0.12a",
-    "description": "- 改善: 對Android 6.0 UI支援\n- 修正: 少量UI修正\n- (a) 修正: 回覆框字體顏色修正",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/0.0.12a/app-prod-release.apk",
-    "pubdate": "2016-06-14",
+    "version": "1.13.0",
+    "description": "- 改善: 部份UI調整\n- 改善: 版本命名方式 (例如0.0.13a -> 1.13.1)\n- 改善: 更改預設連線伺服器為舊API\n- 修正: 貼文頁底回彈問題\n- 修正: 貼內搜尋->載入全部貼文\n- 修正: 無法發送PM\n- 修正: Google關鍵字搜尋\n- 修正: 閱讀記錄無故清空問題\n\n不相容的更新:\n- 升級後閱讀記錄將被強制清除\n- 可能需要重新登入和回復廣告移除購買\n- 若程式出錯，請clear app data並移除datHKG資料夾",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/v1.13.0/app-release.apk",
+    "pubdate": "2016-11-26",
     "next_check_seconds": 10000
   },
-  "ban_version_under": "0.0.11h"
+  "ban_version_under": "0.0.12a"
 }
