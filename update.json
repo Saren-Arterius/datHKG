@@ -13,5 +13,5 @@
     "pubdate": "2017-05-04",
     "next_check_seconds": 10000
   },
-  "ban_version_under": "0.0.12a"
+  "ban_version_under": "1.13.11"
 }
