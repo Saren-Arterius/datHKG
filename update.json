@@ -1,13 +1,13 @@
 {
   "normal": {
-    "version": "1.13.11",
+    "version": "1.13.12",
     "description": "- 修正: URL\n注意:\n- 大部份datHKG功能或己失效，請於FB專頁盡量回報\n- 「無法開啟檔案」解決: 下載apk後，從主畫面中開啟「下載」，點擊app-release.apk的datHKG apk，則可正常安裝及使用。",
     "url": "https://github.com/Saren-Arterius/datHKG/releases/download/v1.13.12/app-release.apk",
     "pubdate": "2017-06-11",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "1.13.11",
+    "version": "1.13.12",
     "description": "- 修正: URL\n注意:\n- 大部份datHKG功能或己失效，請於FB專頁盡量回報\n- 「無法開啟檔案」解決: 下載apk後，從主畫面中開啟「下載」，點擊app-release.apk的datHKG apk，則可正常安裝及使用。",
     "url": "https://github.com/Saren-Arterius/datHKG/releases/download/v1.13.12/app-release.apk",
     "pubdate": "2017-06-11",
