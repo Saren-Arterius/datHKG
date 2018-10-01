@@ -1,17 +1,17 @@
 {
   "normal": {
-    "version": "1.13.14",
-    "description": "- 修正: Android 7+ FC (?)\n- 修正: Reply URL fix\n-修正: Login URL fix\n-新增: 設定->網絡->https開關 (防止無法登入)\n-新增: 新icon\n注意:\n- 大部份datHKG功能或己失效，請於FB專頁盡量回報注意:\n- 大部份datHKG功能或己失效，請於FB專頁盡量回報\n- 「無法開啟檔案」解決: 下載apk後，從主畫面中開啟「下載」，點擊app-release.apk的datHKG apk，則可正常安裝及使用。",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/v1.13.14/app-release.apk",
-    "pubdate": "2017-06-17",
+    "version": "1.13.15",
+    "description": "- 修正: load post\n- 修正: upload.cc等 (但我好似冇做野?)\n- 修正: handle unseen icon/avatar\n- 修正: 預設網絡設定\n注意:\n- 大部份datHKG功能或己失效，請於FB專頁盡量回報\n- 若無法信任datHKG作者，請勿使用並即刪除datHKG，謝謝，你唔煩我都煩",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/v1.13.15/app-release.apk",
+    "pubdate": "2018-10-02",
     "next_check_seconds": 36000
   },
   "beta": {
-    "version": "1.13.14",
-    "description": "- 修正: Android 7+ FC (?)\n- 修正: Reply URL fix\n-修正: Login URL fix\n-新增: 設定->網絡->https開關 (防止無法登入)\n-新增: 新icon\n注意:\n- 大部份datHKG功能或己失效，請於FB專頁盡量回報注意:\n- 大部份datHKG功能或己失效，請於FB專頁盡量回報\n- 「無法開啟檔案」解決: 下載apk後，從主畫面中開啟「下載」，點擊app-release.apk的datHKG apk，則可正常安裝及使用。",
-    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/v1.13.14/app-release.apk",
-    "pubdate": "2017-06-17",
-    "next_check_seconds": 10000
+    "version": "1.13.15",
+    "description": "- 修正: load post\n- 修正: upload.cc等 (但我好似冇做野?)\n- 修正: handle unseen icon/avatar\n- 修正: 預設網絡設定\n注意:\n- 大部份datHKG功能或己失效，請於FB專頁盡量回報\n- 若無法信任datHKG作者，請勿使用並即刪除datHKG，謝謝，你唔煩我都煩",
+    "url": "https://github.com/Saren-Arterius/datHKG/releases/download/v1.13.15/app-release.apk",
+    "pubdate": "2018-10-02",
+    "next_check_seconds": 36000
   },
-  "ban_version_under": "1.13.11"
+  "ban_version_under": "1.13.15"
 }
